@@ -2,7 +2,7 @@ repo_name: 2lambda123/cycloid
 report_id: 6b6364771183dc4d0e3ea113b9288a50
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T07:55:40+00:00'
+timestamp: '2024-02-29T19:17:59+00:00'
 requested_by: a1k0n
 provider: github
 branch: coneslam
@@ -41,7 +41,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/cycloid
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
